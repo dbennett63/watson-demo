@@ -27,4 +27,8 @@ Feel free to peruse the [available Watson services](https://console.bluemix.net/
    8. Copy the username and password for future use
    9. Copy and save a .txt file somewhere on your computer with text to analyze
    10. Navigate in the command line to where you downloaded personalityCurl.sh in step 2 - if you're using bash (Linux/Mac) you may need to execute command `chmod –x personalityCurl.sh`
-   11. Execute the following command to test: `./personalityCurl.sh "username-from-step-8" "password-from-step-8" "path-to-text-file.txt"`
+   11. Execute the following command to test:
+   `./personalityCurl.sh "username-from-step-8" "password-from-step-8" "../data/sample-text.txt"`
+## Usage
+  Simple curl command in /script/ to hit Watson personality service API with a given username, password, and file.
+   `./personalityCurl.sh "username-from-step-8" "password-from-step-8" "path-to-text-file.txt"`
