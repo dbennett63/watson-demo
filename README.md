@@ -5,6 +5,8 @@ The demo will consist of a high level review of existing demo applications avail
 
 If you run into issues getting through either prereq, please reach out to me prior to class.
 
+Feel free to peruse the [available Watson services](https://console.bluemix.net/developer/watson/services) ahead of time.
+
 ## Prerequisites
 1. Navigate to [Bluemix Watson services catalog](https://console.bluemix.net/developer/watson/services)
    * Sign up if you do not have a Bluemix account
