@@ -32,4 +32,5 @@ Feel free to peruse the [available Watson services](https://console.bluemix.net/
    12. Validate output file output-datetimestamp.json is generated in execution folder. This contains json of the personality analysis results.
 ## Usage
   Simple curl command in /script/ to hit Watson personality service API with a given username, password, and file. Outputs response json to execution directory in file "output-<datetimestamp>.json"
+  
    `./personalityCurl.sh "username-from-step-8" "password-from-step-8" "path-to-text-file.txt"`
