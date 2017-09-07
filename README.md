@@ -1,5 +1,10 @@
 # watson-demo
 
+## Overview
+The demo will consist of a high level review of existing demo applications available on IBM's Watson service site. As time permits, we will deep dive into the Personality Service. The advanced prerequisites are if you want to follow along, and likely require some familiarity with using a terminal in Windows or Mac. I tested this on a Mac, so it may vary slightly if you are using windows.
+
+If you run into issues getting through either prereq, please reach out to me prior to class.
+
 ## Prerequisites
 1. Navigate to [Bluemix Watson services catalog](https://console.bluemix.net/developer/watson/services)
    * Sign up if you do not have a Bluemix account
